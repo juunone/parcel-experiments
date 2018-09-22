@@ -12,7 +12,7 @@ export default class App extends Component{
     }
 
     _on(e){
-        //console.log(1312323231,e.target); 
+        //console.log(13123323231,e.target); 
     }
   
     _sanitizeHtml(data, settings) {
